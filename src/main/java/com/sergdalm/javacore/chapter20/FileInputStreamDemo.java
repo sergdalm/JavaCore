@@ -9,6 +9,7 @@ public class FileInputStreamDemo {
     public static void main(String[] args) {
         int size;
 
+
         // Use try-with-resources to close the stream.
         try(FileInputStream f = new FileInputStream("src/main/java/com/sergdalm/javacore/chapter20/FileInputStreamDemo.java")) {
             System.out.println("Total Available Bytes: " + (size = f.available()));
