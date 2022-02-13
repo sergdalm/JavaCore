@@ -46,7 +46,7 @@ public class UCDemo {
             System.out.println("==== Content ====");
             InputStream input = hpCon.getInputStream();
             while((c = input.read()) != -1)
-                System.out.println((char) c);
+                System.out.print((char) c);
             input.close();
         } else
             System.out.println("No content available.");
