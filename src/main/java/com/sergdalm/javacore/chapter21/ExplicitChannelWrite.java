@@ -34,6 +34,4 @@ public class ExplicitChannelWrite {
             System.exit(1);
         }
     }
-
-
 }

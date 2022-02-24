@@ -31,6 +31,5 @@ public class PushbackInputStreamDemo {
         } catch(IOException e) {
             System.out.println("I/O Error: " + e);
         }
-
     }
 }

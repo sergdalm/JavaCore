@@ -1,4 +1,4 @@
-package src.main.java.com.sergdalm.javacore.chapter11;
+package src.main.java.com.sergdalm.javacore.chapter13;
 /*
     To use this program, specify the name
     of the source file and the destination file.

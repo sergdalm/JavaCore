@@ -1,4 +1,4 @@
-package src.main.java.com.sergdalm.javacore.chapter11;
+package src.main.java.com.sergdalm.javacore.chapter13;
 // Read a string from console suing a BufferedReader.
 import java.io.*;
 

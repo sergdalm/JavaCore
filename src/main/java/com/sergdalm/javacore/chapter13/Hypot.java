@@ -1,4 +1,4 @@
-package src.main.java.com.sergdalm.javacore.chapter11;
+package src.main.java.com.sergdalm.javacore.chapter13;
 //Use static import to bring sqrt() and pow() into view.
 import static java.lang.Math.sqrt;
 import static java.lang.Math.pow;

@@ -1,4 +1,4 @@
-package src.main.java.com.sergdalm.javacore.chapter11;
+package src.main.java.com.sergdalm.javacore.chapter13;
 
 /*
     A version of CopyFile that uses try-with-resources.

@@ -55,7 +55,5 @@ public class PathDemo {
         } catch (IOException e) {
             System.out.println("Error reading attributes: " + e);
         }
-
-
     }
 }
